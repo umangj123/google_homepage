@@ -1,0 +1,20 @@
+img {
+    display: block;
+    position: relative;
+    margin-left: 815px;
+    margin-right: auto;
+    top: 250px;
+}
+
+
+input {
+    display: block;
+    margin: auto;
+    width: 560px;
+    height: 40px;
+    border-radius: 25px;
+    border-color: grey;
+    border-width: 1px;
+    position: relative;
+    top: 275px;
+}
