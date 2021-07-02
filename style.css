@@ -13,8 +13,38 @@ input {
     width: 560px;
     height: 40px;
     border-radius: 25px;
-    border-color: grey;
+    border-color: rgb(214, 214, 214);
+    border-top-color:rgb(214, 214, 214);
     border-width: 1px;
     position: relative;
     top: 275px;
 }
+
+.button-search {
+    display: inline;
+    background-color: #f8f9fa;
+    height: 35px;
+    width: 130px;
+    position: relative;
+    top: 300px;
+    left: 830px;
+    border-width: 1px;
+    border-color: transparent;
+    
+}
+
+.button-search:hover {
+    border-color: #f2f3f5;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    
+}
+a:hover {
+    text-decoration: underline;
+
+}
+
